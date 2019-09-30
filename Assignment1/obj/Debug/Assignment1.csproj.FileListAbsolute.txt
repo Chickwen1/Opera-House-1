@@ -1,0 +1,42 @@
+C:\Users\martis73\source\repos\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\martis73\source\repos\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\martis73\source\repos\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\martis73\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.csprojResolveAssemblyReference.cache
+C:\Users\martis73\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.Form1.resources
+C:\Users\martis73\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.Properties.Resources.resources
+C:\Users\martis73\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.GenerateResource.Cache
+C:\Users\martis73\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\martis73\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\martis73\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
+C:\Users\martis73\Desktop\Assignment1\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\martis73\Desktop\Assignment1\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\martis73\Desktop\Assignment1\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\martis73\Desktop\Assignment1\Assignment1\Assignment1\obj\Debug\Assignment1.csprojResolveAssemblyReference.cache
+C:\Users\martis73\Desktop\Assignment1\Assignment1\Assignment1\obj\Debug\Assignment1.Properties.Resources.resources
+C:\Users\martis73\Desktop\Assignment1\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.GenerateResource.Cache
+C:\Users\martis73\Desktop\Assignment1\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\martis73\Desktop\Assignment1\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\martis73\Desktop\Assignment1\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
+C:\Users\martis73\Desktop\Assignment1\Assignment1\Assignment1\obj\Debug\Assignment1.BuyTickets.resources
+C:\Users\martis73\Desktop\Assignment1\Assignment1\Assignment1\obj\Debug\Assignment1.ReturnTickets.resources
+C:\Users\martis73\Desktop\Assignment1\Assignment1\Assignment1\obj\Debug\Assignment1.Form1.resources
+F:\school work\Fall 2017\IS 318 - AGILE DEVELOPMENT\Assignment1\Assignment1\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+F:\school work\Fall 2017\IS 318 - AGILE DEVELOPMENT\Assignment1\Assignment1\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+F:\school work\Fall 2017\IS 318 - AGILE DEVELOPMENT\Assignment1\Assignment1\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+F:\school work\Fall 2017\IS 318 - AGILE DEVELOPMENT\Assignment1\Assignment1\Assignment1\Assignment1\obj\Debug\Assignment1.csprojResolveAssemblyReference.cache
+F:\school work\Fall 2017\IS 318 - AGILE DEVELOPMENT\Assignment1\Assignment1\Assignment1\Assignment1\obj\Debug\Assignment1.Form1.resources
+F:\school work\Fall 2017\IS 318 - AGILE DEVELOPMENT\Assignment1\Assignment1\Assignment1\Assignment1\obj\Debug\Assignment1.Properties.Resources.resources
+F:\school work\Fall 2017\IS 318 - AGILE DEVELOPMENT\Assignment1\Assignment1\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.GenerateResource.Cache
+F:\school work\Fall 2017\IS 318 - AGILE DEVELOPMENT\Assignment1\Assignment1\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+F:\school work\Fall 2017\IS 318 - AGILE DEVELOPMENT\Assignment1\Assignment1\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+F:\school work\Fall 2017\IS 318 - AGILE DEVELOPMENT\Assignment1\Assignment1\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
+E:\school work\Fall 2017\IS 318 - AGILE DEVELOPMENT\Assignment1\Assignment1\Assignment1\Assignment1\obj\Debug\Assignment1.csprojResolveAssemblyReference.cache
+E:\school work\Fall 2017\IS 318 - AGILE DEVELOPMENT\Assignment1\Assignment1\Assignment1\Assignment1\obj\Debug\Assignment1.Form1.resources
+E:\school work\Fall 2017\IS 318 - AGILE DEVELOPMENT\Assignment1\Assignment1\Assignment1\Assignment1\obj\Debug\Assignment1.Properties.Resources.resources
+E:\school work\Fall 2017\IS 318 - AGILE DEVELOPMENT\Assignment1\Assignment1\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.GenerateResource.Cache
+E:\school work\Fall 2017\IS 318 - AGILE DEVELOPMENT\Assignment1\Assignment1\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+E:\school work\Fall 2017\IS 318 - AGILE DEVELOPMENT\Assignment1\Assignment1\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+E:\school work\Fall 2017\IS 318 - AGILE DEVELOPMENT\Assignment1\Assignment1\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
+E:\school work\Fall 2017\IS 318 - AGILE DEVELOPMENT\Assignment1\Assignment1\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+E:\school work\Fall 2017\IS 318 - AGILE DEVELOPMENT\Assignment1\Assignment1\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+E:\school work\Fall 2017\IS 318 - AGILE DEVELOPMENT\Assignment1\Assignment1\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
